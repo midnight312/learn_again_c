@@ -13,7 +13,7 @@ int main(void)
 	//display
 	printf("%c\n",ch);
 	printf("%s\n",s);
-	printf("%s",sen);	
+	printf("%s\n",sen);	
 	return 0;
 }
 
